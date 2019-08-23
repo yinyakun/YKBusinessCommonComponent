@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shares</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>wx</string>
+			<key>key</key>
+			<string>wxdc1e388c3822c80b</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>qq</string>
+			<key>key</key>
+			<string>tencent100424468</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wb</string>
+			<key>key</key>
+			<string>wb3921700954</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ly</string>
+			<key>key</key>
+			<string>li4768945</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fb</string>
+			<key>key</key>
+			<string>fb506027402887373</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>tw</string>
+			<key>key</key>
+			<string>twitterkit-fB5tvRpna1CKK97xZUslbxiet	</string>
+		</dict>
+	</array>
+</dict>
+</plist>

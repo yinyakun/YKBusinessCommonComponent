@@ -1,0 +1,1 @@
+../../../../../LNBusinessCommonComponent/Classes/VoiceRecorder/LNTranslateRequest.h

@@ -1,0 +1,6 @@
+framework module LNBusinessCommonComponent {
+  umbrella header "LNBusinessCommonComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
