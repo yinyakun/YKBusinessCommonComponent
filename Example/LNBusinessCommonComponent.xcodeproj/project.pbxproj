@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		57BECA0B5FB160D2BDB77368 /* libPods-LNBusinessCommonComponent_Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 33D2FC9F764BF774AFADD561 /* libPods-LNBusinessCommonComponent_Example.a */; };
-		58381AD02310AAB0006EB0BA /* YKBusinessCommonComponent.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 58381ACF2310AAB0006EB0BA /* YKBusinessCommonComponent.podspec */; };
+		58381AD22310ABD1006EB0BA /* YKBusinessCommonComponent.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 58381AD12310ABD1006EB0BA /* YKBusinessCommonComponent.podspec */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -44,7 +44,7 @@
 		3A0CF4F1BA0854E2A3A13F51 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4C29A7858FDDCC60909DEAA8 /* Pods-LNBusinessCommonComponent_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNBusinessCommonComponent_Tests.release.xcconfig"; path = "Target Support Files/Pods-LNBusinessCommonComponent_Tests/Pods-LNBusinessCommonComponent_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4F2CA1F8C79A0766F7DADE57 /* Pods-LNBusinessCommonComponent_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LNBusinessCommonComponent_Example.debug.xcconfig"; path = "Target Support Files/Pods-LNBusinessCommonComponent_Example/Pods-LNBusinessCommonComponent_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		58381ACF2310AAB0006EB0BA /* YKBusinessCommonComponent.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = YKBusinessCommonComponent.podspec; sourceTree = "<group>"; };
+		58381AD12310ABD1006EB0BA /* YKBusinessCommonComponent.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = YKBusinessCommonComponent.podspec; path = ../YKBusinessCommonComponent.podspec; sourceTree = "<group>"; };
 		5898D51ACC243B6DCD4D46B4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* LNBusinessCommonComponent_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LNBusinessCommonComponent_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -179,9 +179,9 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
+				58381AD12310ABD1006EB0BA /* YKBusinessCommonComponent.podspec */,
 				5898D51ACC243B6DCD4D46B4 /* README.md */,
 				3A0CF4F1BA0854E2A3A13F51 /* LICENSE */,
-				58381ACF2310AAB0006EB0BA /* YKBusinessCommonComponent.podspec */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -284,7 +284,7 @@
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
-				58381AD02310AAB0006EB0BA /* YKBusinessCommonComponent.podspec in Resources */,
+				58381AD22310ABD1006EB0BA /* YKBusinessCommonComponent.podspec in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
